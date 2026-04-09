@@ -85,4 +85,4 @@ Data Modeling · Data Quality · UAT · Lean & Six Sigma · KPI Design
 - 📧 Email: zhanara.zeinesheva@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/zhanara-zeinesheva-618236a3/  
 
-💼 **Open to Data Analyst, Data Scientist, and Business Analyst roles** — Prague, Czechia / on-site, hybrid, remote, EU, UK / remote
+💼 **Open to Data Analyst, Data Scientist, and Business Analyst roles** — Prague, Czechia / on-site, hybrid, remote; EU, UK / remote
