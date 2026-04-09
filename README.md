@@ -4,8 +4,6 @@
 Data-driven professional with strong experience across analytics, CX quality, auditing, and financial analysis. I specialize in transforming complex business problems into actionable insights through data modeling, automation, and visualization. Currently working in Prague, focusing on scalable analytics solutions that improve decision-making and operational efficiency.
 
 📍 Prague, Czech Republic  
-📧 zhanara.zeinesheva@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/zhanara-zeinesheva-618236a3/)
 
 ---
 
