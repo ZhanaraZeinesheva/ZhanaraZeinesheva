@@ -46,6 +46,7 @@ Data-driven professional with strong experience across analytics, CX quality, au
 
 🔗 **More projects:**  
 https://github.com/ZhanaraZeinesheva/R-and-Python-Projects
+https://github.com/ZhanaraZeinesheva/automation-with-python
 
 ---
 
