@@ -9,7 +9,7 @@ Data-driven professional with strong experience across analytics, CX quality, au
 
 ## 🚀 What I Do
 - **Data Analytics & Insights** → KPI frameworks, trend analysis, root-cause analysis, decision support
-- **Data Visualization** → Executive-level Power BI dashboards and stakeholder reporting
+- **Data Visualization** → Executive-level BI dashboards and stakeholder reporting
 - **Process Automation** → Power Automate, SQL logic, Salesforce data clean-up, workflow optimization
 - **Data Quality & Governance** → Data stewardship, validation rules, system reliability
 
@@ -52,7 +52,7 @@ Data-driven professional with strong experience across analytics, CX quality, au
 
 ## 🛠 Tech Stack
 **Analytics & BI**  
-Power BI · DAX · SQL · Excel
+Power BI · DAX · Tableau · SQL · Excel
 
 **Programming & Data Science**  
 Python · R · Machine Learning · Econometrics
@@ -69,7 +69,8 @@ Data Modeling · Data Quality · UAT · Lean & Six Sigma · KPI Design
 - Google Data Analytics Professional Certificate
 - Microsoft Power BI Data Analyst (PL-300 / DA-100)
 - Lean & Six Sigma Green Belt
-- Google IT Automation with Python *(in progress)*
+- Google IT Automation with Python
+- McKinsey Forward Learner
 
 ---
 
